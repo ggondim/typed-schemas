@@ -30,5 +30,8 @@
   "bugs": {
     "url": "https://github.com/ggondim/typed-schemas/issues"
   },
-  "homepage": "https://github.com/ggondim/typed-schemas#readme"
+  "homepage": "https://github.com/ggondim/typed-schemas#readme",
+  "dependencies": {
+    "ajv": "^6.12.3"
+  }
 }

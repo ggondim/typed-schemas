@@ -1,6 +1,6 @@
 {
   "name": "typed-schemas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript classes with type validation using JSON Schema",
   "main": "src/index.js",
   "scripts": {

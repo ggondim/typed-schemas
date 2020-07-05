@@ -1,6 +1,6 @@
 {
   "name": "@typed-schemas/bson",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript classes with type and BSON validation using JSON Schema",
   "main": "index.js",
   "scripts": {
@@ -30,5 +30,10 @@
   "bugs": {
     "url": "https://github.com/ggondim/typed-schemas/issues"
   },
-  "homepage": "https://github.com/ggondim/typed-schemas#readme"
+  "homepage": "https://github.com/ggondim/typed-schemas#readme",
+  "dependencies": {
+    "ajv-bsontype": "^1.0.7",
+    "ajv-keywords": "^3.5.0",
+    "bson": "^4.0.4"
+  }
 }

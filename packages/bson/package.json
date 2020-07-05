@@ -1,0 +1,34 @@
+{
+  "name": "@typed-schemas/bson",
+  "version": "1.0.0",
+  "description": "JavaScript classes with type and BSON validation using JSON Schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggondim/typed-schemas.git"
+  },
+  "keywords": [
+    "json-schema",
+    "types",
+    "validation",
+    "ajv",
+    "json",
+    "schema",
+    "type",
+    "validation",
+    "oop",
+    "class"
+  ],
+  "author": {
+    "name": "Gustavo Gondim",
+    "url": "https://github.com/ggondim"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ggondim/typed-schemas/issues"
+  },
+  "homepage": "https://github.com/ggondim/typed-schemas#readme"
+}

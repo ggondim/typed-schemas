@@ -2,7 +2,7 @@
   "name": "typed-schemas",
   "version": "1.0.1",
   "description": "JavaScript classes with type validation using JSON Schema",
-  "main": "src/index.js",
+  "main": "src/schema.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

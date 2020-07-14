@@ -2,7 +2,7 @@ const { EJSON, ObjectId } = require('bson');
 const AjvKeywords = require('ajv-keywords');
 const AjvBsontype = require('ajv-bsontype');
 
-const Schema = require('./schema.js');
+const Schema = require('typed-schemas');
 
 class BsonSchema extends Schema {
   constructor(schema, object = {}, {
